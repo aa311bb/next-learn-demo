@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx clawhub@latest install git-commit-helper)",
+      "Bash(npx clawhub@latest install clean-code-review)",
+      "Bash(npx clawhub@latest install react-expert)",
+      "Bash(npx clawhub@latest install react-best-practices)",
+      "Bash(npx clawhub@latest install api-tester)",
+      "Bash(npx clawhub@latest install docker-essentials)",
+      "Bash(npx clawhub@latest install database-designer)",
+      "Bash(npx clawhub@latest install vue-expert)",
+      "Bash(npx clawhub@latest install e2e-testing-patterns)",
+      "Bash(npx clawhub@latest list)",
+      "Bash(npm run:*)",
+      "Bash(taskkill //PID 24424 //F)",
+      "Bash(npm install:*)",
+      "WebSearch"
+    ]
+  }
+}
